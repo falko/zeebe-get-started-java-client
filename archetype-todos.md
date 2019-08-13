@@ -2,3 +2,4 @@
 - [ ] correct  zeebe client imports, currently `io.zeebe.demo.client.ZeebeClient` instead of `io.zeebe.client.ZeebeClient`
 - [ ] version.zeebe property ins archetype's pom.xml and test/archetype.properties (XML Starlet?)
 - [ ] derive version.zeebe from source project using XML Starlet
+- [ ] change version number to -SNAPSHOT
